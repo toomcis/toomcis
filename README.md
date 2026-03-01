@@ -29,7 +29,7 @@ Email: [tomas.hnilicky1@gmail.com](mailto:tomas.hnilicky1@gmail.com)
 
 **WocaFuckOff**
 Automates the WocaBee game.
-Runs in Docker. Works somehow.
+Runs in Docker as well as standalone. Works somehow.
 
 **GPM (GyroPerMinute)**
 Party game controlled by phone sensors.
